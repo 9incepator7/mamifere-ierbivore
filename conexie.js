@@ -1,1 +1,0 @@
-alert("esti pregatit sa aflii mai mult despre ierbivore??");
