@@ -1,7 +1,7 @@
-var numarareIerbivore = 23;
+var numarareIerbivore = 83;
 
-while (numarareIerbivore <= 47) {
-    console.log("inca nu sunt suficient de multe animale pe camp!");
+if (numarareIerbivore <= 47) {
+    document.write("inca nu sunt suficient de multe animale pe camp!");
     numarareIerbivore++;
 }
 
