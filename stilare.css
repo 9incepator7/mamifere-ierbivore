@@ -1,0 +1,19 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+#cantitate {
+    color:darkgreen;
+    font-weight: 900;
+}
+
+#rectangle {
+
+    padding: 1em;
+    background-color: rgb(62, 150, 25);
+    display:block;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+
